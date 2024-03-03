@@ -1,0 +1,12 @@
+@import './base.css';
+body{
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg);
+  font-weight: 700;
+  font-family: var(--font-gilroy);
+}
+
+
+
+
