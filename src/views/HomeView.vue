@@ -1,6 +1,6 @@
 <template>
   <div class="container">   
-    <Header/> 
+    <Header/>
     <Social/>
     <img class="HG" src="https://s3-alpha-sig.figma.com/img/e35d/ee6d/eae63c1dba994d043f4de7eaf83ad2f4?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ndnbA98dpQFI3cn34VRfa1AlmhmUInlJLwssXXfAD-lzZL2db80f0-ovX7HmazUqHM473w6bLNb~sTIKz602pRWubS0sCCsIa7L9amZw99x2xra86XHeEFmly8gHt1k5IYV5r4NFtElAn5xy8wSPxBqRykCKjGr92C3QpPBMAEPYnHkftqPxwn2nuvZoGnwQrJc0SbZqV6fKc1oiTKf7tA3xkuvArPoJ9irwXub94tD37~qn6-0~JZftiw1-2Z4ZDBRPud9OKZ6TbSdbxGCv1JPFSpNPiaRkcoxNZJs0-pK~lyE334lT2NA6HEA8PovX32ZZ39ELViHuTWCKMqWcxA__" alt="">
     <div class="bgHero"></div>
@@ -8,9 +8,8 @@
     <img class="VG" src="https://s3-alpha-sig.figma.com/img/d13c/a5ea/79047419a4bc27738c3cc555a99dcd2c?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cHaEq5eQ34HY8sxvkFtLzsGf1aly2oX2vZAK2UDSnevBmrme8NjuKrjnJZJEZNC91lt7zum~dnDe-m9~qjG7Rq~iBncOef-Qj6jzKOCQw1WMAcRK-jkAo0lceQ88ZpEYSXAL3yKghXEr1CTsbIOnNbXyBikvIKdWYCbs-MDO23tA6M~1Os~BS-jkld6ZSRPX5fCIrmgv-74FDTGEJG7mmEdEmRkqM1K-Zyho3xMhH6uHZy0RuzqO9QVn2u05~AM9SQadhX4mlrPlZPHc~ZgfOXHxCILkLJx8TZwiWH9Rtn1dlhapOUJR27-zy3xmDHiyUxE--crjOOFsoE~XR68h8Q__" alt="">
     <div class="BG_Content"></div>
     <Title/>
-
+  
     <div class="main_content">
-
       <div class="content_1">
         <div class="content_1_text_container">
           <img class="content_1_number_bg" :src="number_01_icon">
